@@ -1,4 +1,4 @@
-![photo_2025-11-19 03 38 26](https://github.com/user-attachments/assets/534b9892-11e8-47dd-8b0a-e5b88062e350)
+<img width="1584" height="396" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/a0fef695-42b7-41f8-b5c0-152e03375bba" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=700&size=30&duration=3200&pause=1000&color=67086E&center=true&vCenter=true&width=600&lines=Salamun+Alaikum+💐;Good+to+See+You!+❤️">
