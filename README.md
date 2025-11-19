@@ -32,9 +32,9 @@ As a **MERN Stack Developer**, I turn imagination into interfaces that connect p
 - 🌱 **Exploring:** Next.js, modern UI frameworks, and advanced React patterns
 - 📚 **Learning:** Scalable backend design, APIs, and database optimization
 - ⚙️ **Improving:** My problem-solving and clean coding practices  
-- 💻 **Building:** A modern **Tourism & Booking Platform** using the MERN Stack  
 - 🧠 **Experimenting With:** UI animations, performance tuning & deployment tools, AI-assisted development workflows
 - 🎯 **Preparing For:** Real-world MERN Stack projects and collaborative open-source work
+<!-- - 💻 **Building:** A modern **Tourism & Booking Platform** using the MERN Stack -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -86,7 +86,7 @@ As a **MERN Stack Developer**, I turn imagination into interfaces that connect p
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
 
 ### Version Control & Editors
 <p align="left">
@@ -161,4 +161,15 @@ As a **MERN Stack Developer**, I turn imagination into interfaces that connect p
   <img src="https://img.shields.io/github/stars/sayhan-ahmed?label=Stars&style=social" alt="Stars"/>
 </p>
 
+<br>
 
+<div align="center">
+
+**Thanks for visiting my profile!**  
+Feel free to star ⭐ my repos if you like them, and let’s connect — I’m always open to collaborating on cool projects!
+
+<p>
+  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-00FFFF?style=for-the-badge&logo=freelancer&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+</div>
