@@ -124,38 +124,8 @@ As a **MERN Stack Developer**, I turn imagination into interfaces that connect p
 </p>
 -->
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
 
-## 📊 GitHub Stats & Analytics  
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sayhan-ahmed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-    width="48%" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayhan-ahmed&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
-    width="48%" 
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sayhan-ahmed&theme=tokyonight&hide_border=true&border_radius=15" 
-    width="50%" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sayhan-ahmed&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" 
-    width="70%" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-<div align="center">
   
 ## 👁️‍🗨️ Profile Insights
 
