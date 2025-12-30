@@ -1,4 +1,6 @@
-<img width="1584" height="396" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/a0fef695-42b7-41f8-b5c0-152e03375bba" />
+<!-- <img width="1584" height="396" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/a0fef695-42b7-41f8-b5c0-152e03375bba" /> -->
+<img width="1600" height="450" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/d07615ac-dfc2-49d2-b511-d71d3c2a64cd" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=700&size=30&duration=3200&pause=1000&color=67086E&center=true&vCenter=true&width=600&lines=Salamun+Alaikum+💐;Good+to+See+You!+❤️">
