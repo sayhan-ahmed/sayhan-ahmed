@@ -1,12 +1,12 @@
 <!-- <img width="1584" height="396" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/a0fef695-42b7-41f8-b5c0-152e03375bba" /> -->
-<img width="1600" height="450" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/d07615ac-dfc2-49d2-b511-d71d3c2a64cd" />
+<img width="1600" height="700" alt="Black and White Modern Clean Professional Programmer LinkedIn Background" src="https://github.com/user-attachments/assets/d07615ac-dfc2-49d2-b511-d71d3c2a64cd" />
 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=700&size=30&duration=3200&pause=1000&color=67086E&center=true&vCenter=true&width=600&lines=Salamun+Alaikum+💐;Good+to+See+You!+❤️">
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
 
 ### 👋 Behind the Code — I’m Sayhan 🌷
 
@@ -49,6 +49,7 @@ As a **MERN Stack Developer**, I turn imagination into interfaces that connect p
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
 ## ⚙️ Backend
